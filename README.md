@@ -1,5 +1,7 @@
 # appatm
 
+Atvidade feita em dupla com Gabriel Lobato de Castro
+
 A new Flutter project.
 
 ## Getting Started
